@@ -1,0 +1,3 @@
+# ignore folders used by nifi as work folders
+txt/
+json/
